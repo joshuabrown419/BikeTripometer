@@ -5,7 +5,7 @@
 ![Display Pinout](https://www.waveshare.com/w/upload/e/e2/1.28-Aduino.jpg)
 # Conncections
 - A0: 220k ohm reistor to BAT- and 220k ohm resistor to BAT+
-- GPIO3: Unconnected
+- D1: Reed Switch JST Connector
 - GPIO4: Unconnected
 - GPIO5: Unconnected
 - D4: Display BL
