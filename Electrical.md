@@ -13,6 +13,7 @@
 - D6: Display DC
 - D7: Display CS
 - SCK: Display CLK
+- GPIO9: Disconnected
 - MOSI: Display DIN
 - 3V3: Display VCC
 - GND: Display GND, Reed GND
